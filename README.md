@@ -34,7 +34,7 @@ Wait for 30secs to 1min after opening backend link, then open frontend link for 
 
 ## Demo Video
 
-[Demo Video Link](https://drive.google.com/file/d/1aK3A5pTvoI1wPy2PxBjrsLkiILPjd8VF/view?usp=sharing) 
+[Demo Video Link]() 
 
 ---
 
@@ -100,10 +100,6 @@ Wait for 30secs to 1min after opening backend link, then open frontend link for 
     *   Git & GitHub
 
 ---
-
-## Architecture Diagram
-
-![Architecture Diagram](./architecture.png)
 
 **🔐 Authentication:**
 Users log in via Google OAuth2.
