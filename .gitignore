@@ -1,0 +1,47 @@
+# Ignore environment variable files
+.env
+client/.env
+server/.env
+
+# Ignore node_modules (dependencies)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Ignore build directories
+dist/
+build/
+client/build/
+server/build/
+
+# Ignore log files
+*.log
+logs/
+client/logs/
+server/logs/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore coverage reports
+coverage/
+client/coverage/
+server/coverage/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore production files
+client/.next/
+server/.next/
